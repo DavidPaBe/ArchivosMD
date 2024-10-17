@@ -1,6 +1,6 @@
 ## ¿Qué es un JCR?
 
-El **Journal Citation Reports (JCR)** es una base de datos multidisciplinar que proporciona información estadística sobre revistas académicas. Esta herramienta, desarrollada por el Institute for Scientific Information y actualmente gestionada por Clarivate Analytics, permite evaluar la importancia relativa de las revistas dentro de sus respectivas categorías temáticas. El JCR incluye métricas como el **Factor de Impacto**, que mide la frecuencia con la que se citan los artículos de una revista en un período determinado, y otros indicadores como el **Journal Citation Indicator (JCI)** y el cuartil de la revista[2][3].
+El **Journal Citation Reports (JCR)** es una base de datos multidisciplinar que proporciona información estadística sobre revistas académicas. El JCR incluye métricas como el **Factor de Impacto**, que mide la frecuencia con la que se citan los artículos de una revista en un período determinado, y otros indicadores como el **Journal Citation Indicator (JCI)** y el cuartil de la revista[2][3].
 
 ## ISSN y DOI
 
